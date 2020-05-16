@@ -1,5 +1,6 @@
-This is a project for EE4330. This submission is NOT done in group effort.
-Submitted by Chi Shing Poon (1001082535) 
+This is a project for EE4330 Telecommunication.
+By: Chi Shing Poon (1001082535) 
+This project a few digital communication system techniques: Sampling, Quantization, PCM, DPCM, Line Encoding, FSK Modulation, SNR illustrations.
 Each Matlab file is independent, the only file they need to read from this folder is the lena image ('lena512color.tff')
 
 
